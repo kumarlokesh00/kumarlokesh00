@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Dapps
+- 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on Next.js
 - 🤔 I’m looking for help with Web development.
